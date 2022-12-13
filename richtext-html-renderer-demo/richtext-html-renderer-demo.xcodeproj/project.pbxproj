@@ -14,7 +14,7 @@
 		585EF43E2947640E00FD25E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 585EF43D2947640E00FD25E0 /* Assets.xcassets */; };
 		585EF4412947640E00FD25E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 585EF43F2947640E00FD25E0 /* LaunchScreen.storyboard */; };
 		585EF4492947645000FD25E0 /* HtmlRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585EF4482947645000FD25E0 /* HtmlRenderer.swift */; };
-		585EF44B2947654F00FD25E0 /* Renderer.bundle.js in Resources */ = {isa = PBXBuildFile; fileRef = 585EF44A2947654F00FD25E0 /* Renderer.bundle.js */; };
+		585EF44D29480A6300FD25E0 /* Renderer.bundle.js in Resources */ = {isa = PBXBuildFile; fileRef = 585EF44C29480A6300FD25E0 /* Renderer.bundle.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		585EF4402947640E00FD25E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		585EF4422947640E00FD25E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		585EF4482947645000FD25E0 /* HtmlRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HtmlRenderer.swift; sourceTree = "<group>"; };
-		585EF44A2947654F00FD25E0 /* Renderer.bundle.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = Renderer.bundle.js; path = ../../javascript/dist/Renderer.bundle.js; sourceTree = "<group>"; };
+		585EF44C29480A6300FD25E0 /* Renderer.bundle.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Renderer.bundle.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 		585EF4332947640C00FD25E0 /* richtext-html-renderer-demo */ = {
 			isa = PBXGroup;
 			children = (
-				585EF44A2947654F00FD25E0 /* Renderer.bundle.js */,
+				585EF44C29480A6300FD25E0 /* Renderer.bundle.js */,
 				585EF4342947640C00FD25E0 /* AppDelegate.swift */,
 				585EF4362947640C00FD25E0 /* SceneDelegate.swift */,
 				585EF4382947640C00FD25E0 /* ViewController.swift */,
@@ -131,7 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				585EF44B2947654F00FD25E0 /* Renderer.bundle.js in Resources */,
+				585EF44D29480A6300FD25E0 /* Renderer.bundle.js in Resources */,
 				585EF4412947640E00FD25E0 /* LaunchScreen.storyboard in Resources */,
 				585EF43E2947640E00FD25E0 /* Assets.xcassets in Resources */,
 				585EF43C2947640C00FD25E0 /* Main.storyboard in Resources */,
